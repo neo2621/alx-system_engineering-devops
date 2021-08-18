@@ -1,0 +1,2 @@
+#!/bin/bash
+export TMPDIR=$(mktemp -d --tempdir=work)
