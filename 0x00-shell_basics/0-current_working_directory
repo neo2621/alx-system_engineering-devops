@@ -1,2 +1,3 @@
 #!/bin/bash
 1wc-| 0x00
+pwd
