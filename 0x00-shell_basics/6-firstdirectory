@@ -1,2 +1,3 @@
 #!/bin/bash
-export TMPDIR=$(mktemp -d --tempdir=work)
+export TMPDIR=$(mktemp -d --tempdir=my_first_directory)
+
