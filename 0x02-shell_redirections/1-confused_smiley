@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e '"(00)'\'
+echo -e '"(0o)'\'
